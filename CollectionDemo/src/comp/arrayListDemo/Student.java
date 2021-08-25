@@ -1,5 +1,5 @@
 package comp.arrayListDemo;
-
+/*POJO Class*/
 public class Student {
 		int id;
 		String name;
